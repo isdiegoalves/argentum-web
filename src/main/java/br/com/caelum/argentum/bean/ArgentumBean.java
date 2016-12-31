@@ -22,6 +22,9 @@ import br.com.caelum.argentum.modelo.Negociacao;
 import br.com.caelum.argentum.modelo.SerieTemporal;
 import br.com.caelum.argentum.ws.ClienteWebService;
 
+/**
+* Testando
+*/
 @ViewScoped
 @ManagedBean
 public class ArgentumBean implements Serializable {
